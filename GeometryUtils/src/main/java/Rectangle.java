@@ -1,4 +1,4 @@
-package geometry;
+
 
 public class Rectangle {
     private double width;
